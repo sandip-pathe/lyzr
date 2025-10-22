@@ -4,7 +4,7 @@
 
 ### Visual, Event-Driven AI Workflow Orchestration Platform
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-lyzr.anaya.legal-00d4ff?style=for-the-badge)](https://lyzr-alpha.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-lyzr.anaya.legal-00d4ff?style=for-the-badge)](https://lyzr.anaya.legal/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sandip-pathe/lyzr)
 
 **Built in 6 days** | Complex AI workflows that feel like magic ✨
@@ -17,7 +17,7 @@
 
 ## 🎬 Live Demo
 
-**🌐 Try it now:** [lyzr-alpha.vercel.app](https://lyzr-alpha.vercel.app/)
+**🌐 Try it now:** [lyzr.anaya.legal](https://lyzr.anaya.legal/)
 
 > Experience the full power of hybrid AI-agentic orchestration with our live deployment. Build, execute, and monitor complex workflows in real-time.
 
@@ -243,6 +243,6 @@ Built in **6 days** with:
 [![GitHub Stars](https://img.shields.io/github/stars/sandip-pathe/lyzr?style=social)](https://github.com/sandip-pathe/lyzr)
 [![GitHub Forks](https://img.shields.io/github/forks/sandip-pathe/lyzr?style=social)](https://github.com/sandip-pathe/lyzr/fork)
 
-[🚀 Live Demo](https://lyzr-alpha.vercel.app/) • [📖 Documentation](#) • [🐛 Report Bug](#) • [💡 Request Feature](#)
+[🚀 Live Demo](https://lyzr.anaya.legal/) • [📖 Documentation](#) • [🐛 Report Bug](#) • [💡 Request Feature](#)
 
 </div>
